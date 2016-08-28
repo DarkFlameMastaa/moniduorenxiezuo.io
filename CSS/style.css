@@ -1,0 +1,18 @@
+html{
+	font-family: "微软雅黑";
+	height: 100%;
+	width: 100%;
+}
+#big{
+	width: 300px;
+	height: 300px;
+	background: #212121;
+}#mid{
+	width: 200px;
+	height: 200px;
+	background: #7b1fa2;
+}#sm{
+	width: 100px;
+	height: 100px;
+	background: #4dd0e1;
+}
